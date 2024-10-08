@@ -22,7 +22,7 @@ Designed with KiCad Version 8.0.4
 
 PiExp source files included.
 
-Licensed under CERN OHL v.1.2
+Licensed under CERN OHL v.1.2 (Open Hardware Licence)
 
 See CERN OHL v.1.2 for applicable conditions
 
