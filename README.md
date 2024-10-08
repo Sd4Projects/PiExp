@@ -46,8 +46,11 @@ To test SPI I used a WIZ850io module with an adapter board. Files for the adapte
 To enable the WIZ850io module on a Raspberry Pi ZERO you need to add 2 lines to the config.txt file.
 
 dtoverlay=anyspi,spi0-0,dev="w5500",speed=30000000
+
 dtoverlay=w5500
 
 One thing I have found that helps the ZERO W2 perform is to increase the swap file size.
+
 sudo vi /etc/dphys-swapfile
+
    and change CONF_SWAPSIZE=100 to 1024
