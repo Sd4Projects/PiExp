@@ -43,7 +43,9 @@ All data lines use 4-pin Qwiic/JST_SH connectores.
 This board started out because I needed to add AtoD for my Raspberry Pi Zero W2 for a project I was working on and then I just keep adding features to the board till it was full.
 
 To test SPI I used a WIZ850io module with an adapter board. Files for the adapter board are in W850adapter_v1b.zip
-To enable the WIZ850io module on a Raspberry Pi ZERO you need to add 2 lines to the config.txt file.
+To enable the WIZ850io module on a Raspberry Pi ZERO you need to enable SPI and add 2 lines to the config.txt file.
+
+dtparam=spi=on
 
 dtoverlay=anyspi,spi0-0,dev="w5500",speed=30000000
 
