@@ -22,7 +22,11 @@ Designed with KiCad Version 8.0.4
 
 PiExp source files included.
 
-PiExp board released under OHL Version 1.2
+Licensed under CERN OHL v.1.2
+
+See CERN OHL v.1.2 for applicable conditions
+
+http://ohwr.org/cernohl
 
 PiExp board features:
 1. Four 16bit AtoD lines using an ADS1115 chip via I2C interface
