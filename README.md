@@ -37,6 +37,7 @@ PiExp board features:
 6. 1-Wire line to a JST_SH Connector (optional 4.7K pull up)
 7. 24CS256 EEPROM with solder pads to link I2C of choice
 8. Terminal to supply external 5 volts to PI
+
 All data lines use 4-pin Qwiic/JST_SH connectores.
 
 This board started out because I needed to add AtoD for my Raspberry Pi Zero W2 for a project I was working on and then I just keep adding features to the board till it was full.
