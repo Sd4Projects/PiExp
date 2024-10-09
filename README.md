@@ -56,3 +56,5 @@ One thing I have found that helps the ZERO W2 perform is to increase the swap fi
 sudo vi /etc/dphys-swapfile
 
    and change CONF_SWAPSIZE=100 to 1024
+
+Python program to test PiExp board: piExpTest.py
