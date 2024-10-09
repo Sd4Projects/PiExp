@@ -1,8 +1,6 @@
 # PiExp
 Expansion board for Raspberry Pi ZERO
 
-More info TK
-
 Testing board design:
 ![alt text](https://github.com/Sd4Projects/PiExp/blob/main/PiExpTestSetup.png?raw=true "finishedboard")
 
