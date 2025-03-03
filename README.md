@@ -1,4 +1,4 @@
-# PiExp
+# PiExp For Zero
 Expansion board for Raspberry Pi ZERO
 
 Testing board design:
